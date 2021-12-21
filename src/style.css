@@ -1,0 +1,13 @@
+.background{
+    width: 70%;
+}
+
+.restaurantTitle{
+    padding: 8% 15%;
+    text-align: center;
+}
+
+.restaurantText{
+    padding: 0% 15%;
+    text-align: justify;
+}
