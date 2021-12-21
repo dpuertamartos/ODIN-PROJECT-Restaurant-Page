@@ -25,3 +25,16 @@
     margin: 0% 2%;
 }
 
+.contactTitle{
+    font-size: 6vw;
+    font-weight: bold;
+    text-align: center;
+    padding: 4% 20%;
+}
+
+.contactText{
+    font-size: 4vw;
+    text-align: center;
+    padding: 1.5% 20%;
+}
+
