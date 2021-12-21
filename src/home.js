@@ -1,4 +1,4 @@
-import background from './newbackground.png'
+import background from './img/newbackground.png'
 
 /* const container = document.createElement("div")
 container.className = "container-fluid"

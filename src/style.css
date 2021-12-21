@@ -1,3 +1,8 @@
+#header{
+    padding: 0% 0% 2%;
+    background-color: #212529;
+}
+
 .background{
     width: 70%;
 }
@@ -21,8 +26,12 @@
     font-size: 1.3vw;
 }
 
-.w{
-    margin: 0% 2%;
+.w-left{
+    margin: 0% 2% 0% 0%;
+}
+
+.w-right{
+    margin: 0% 0% 0% 2%;
 }
 
 .contactTitle{
@@ -38,3 +47,7 @@
     padding: 1.5% 20%;
 }
 
+.btn{
+    width: 100%;
+    font-size: 2vw;
+}

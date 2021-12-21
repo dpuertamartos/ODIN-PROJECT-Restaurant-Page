@@ -1,6 +1,6 @@
-import lasagna from "./lasaña.jpg"
-import pasta from "./pasta.jpg"
-import hamburguesa from "./hamburguesa.jpg"
+import lasagna from "./img/lasaña.jpg"
+import pasta from "./img/pasta.jpg"
+import hamburguesa from "./img/hamburguesa.jpg"
 
 /* const container = document.createElement("div")
 container.className = "container-fluid"
@@ -16,21 +16,21 @@ const createMenu = () => {
     const row1 = document.createElement("div")
     row1.className = "row food"
     const col11 = document.createElement("div")
-    col11.className = "col w"
+    col11.className = "col w-left"
     const col12 = document.createElement("div")
-    col12.className = "col w"
+    col12.className = "col w-right"
     const row2 = document.createElement("div")
     row2.className = "row food"
     const col21 = document.createElement("div")
-    col21.className = "col w"
+    col21.className = "col w-left"
     const col22 = document.createElement("div")
-    col22.className = "col w"
+    col22.className = "col w-right"
     const row3 = document.createElement("div")
     row3.className = "row food"
     const col31 = document.createElement("div")
-    col31.className = "col w"
+    col31.className = "col w-left"
     const col32 = document.createElement("div")
-    col32.className = "col w"
+    col32.className = "col w-right"
 
     const lasagnaI = new Image()
     lasagnaI.src = lasagna
